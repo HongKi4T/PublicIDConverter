@@ -1,4 +1,4 @@
-package kiat.anhong.changeid;
+package kiat.anhong.changeId;
 
 import java.io.File;
 import javafx.stage.DirectoryChooser;

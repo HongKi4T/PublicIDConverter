@@ -1,4 +1,4 @@
-package kiat.anhong.changeid;
+package kiat.anhong.changeId;
 
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;

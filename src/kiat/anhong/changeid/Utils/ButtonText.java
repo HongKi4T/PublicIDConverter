@@ -1,4 +1,4 @@
-package kiat.anhong.changeid.Utils;
+package kiat.anhong.changeId.Utils;
 
 public final class ButtonText {
     public static final String OPEN = "Open";

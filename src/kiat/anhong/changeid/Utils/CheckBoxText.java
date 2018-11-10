@@ -1,4 +1,4 @@
-package kiat.anhong.changeid.Utils;
+package kiat.anhong.changeId.Utils;
 
 public class CheckBoxText {
     public static final String FRAMEWORK = "Framework-res";

@@ -1,4 +1,4 @@
-package kiat.anhong.changeid;
+package kiat.anhong.changeId;
 
 import java.awt.Desktop;
 import java.io.File;

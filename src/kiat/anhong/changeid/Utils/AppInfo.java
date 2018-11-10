@@ -1,4 +1,4 @@
-package kiat.anhong.changeid.Utils;
+package kiat.anhong.changeId.Utils;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

@@ -1,8 +1,8 @@
-package kiat.anhong.changeid;
+package kiat.anhong.changeId;
 
-import kiat.anhong.changeid.Utils.ButtonText;
-import kiat.anhong.changeid.Utils.FileEnum;
-import kiat.anhong.changeid.Utils.AppInfo;
+import kiat.anhong.changeId.Utils.ButtonText;
+import kiat.anhong.changeId.Utils.FileEnum;
+import kiat.anhong.changeId.Utils.AppInfo;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.scene.Scene;
@@ -26,9 +26,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 import javafx.scene.layout.*;
-import kiat.anhong.changeid.Utils.CheckBoxText;
+import kiat.anhong.changeId.Utils.CheckBoxText;
 
-import static kiat.anhong.changeid.Utils.LineString.*;
+import static kiat.anhong.changeId.Utils.LineString.*;
 
 public class PublicIDConverter extends Application {
 

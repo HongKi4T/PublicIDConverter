@@ -1,4 +1,4 @@
-package kiat.anhong.changeid;
+package kiat.anhong.changeId;
 
 import java.io.File;
 import java.util.prefs.Preferences;
@@ -7,7 +7,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
-import kiat.anhong.changeid.Utils.FileEnum;
+import kiat.anhong.changeId.Utils.FileEnum;
 
 public class CustomFile {
 
